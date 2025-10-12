@@ -1,1 +1,1 @@
-# ai_projects
+# AI Projects in Python
