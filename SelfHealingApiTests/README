@@ -1,0 +1,7 @@
+# Self-Healing REST API Test Framework
+This is a pytest-based self-healing REST API test framework that combines both:
+- Automatic schema healing (code-based)
+- Optional LLM healing (AI-assisted)
+
+To run it:
+pytest -s
